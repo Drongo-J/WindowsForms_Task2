@@ -1,0 +1,16 @@
+C:\Users\Hafiz\source\repos\WindowsForms_Task2\WindowsForms_Task2\bin\Debug\WindowsForms_Task2.exe.config
+C:\Users\Hafiz\source\repos\WindowsForms_Task2\WindowsForms_Task2\bin\Debug\WindowsForms_Task2.exe
+C:\Users\Hafiz\source\repos\WindowsForms_Task2\WindowsForms_Task2\bin\Debug\WindowsForms_Task2.pdb
+C:\Users\Hafiz\source\repos\WindowsForms_Task2\WindowsForms_Task2\obj\Debug\WindowsForms_Task2.csproj.AssemblyReference.cache
+C:\Users\Hafiz\source\repos\WindowsForms_Task2\WindowsForms_Task2\obj\Debug\WindowsForms_Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hafiz\source\repos\WindowsForms_Task2\WindowsForms_Task2\obj\Debug\WindowsForms_Task2.Form1.resources
+C:\Users\Hafiz\source\repos\WindowsForms_Task2\WindowsForms_Task2\obj\Debug\WindowsForms_Task2.Properties.Resources.resources
+C:\Users\Hafiz\source\repos\WindowsForms_Task2\WindowsForms_Task2\obj\Debug\WindowsForms_Task2.csproj.GenerateResource.cache
+C:\Users\Hafiz\source\repos\WindowsForms_Task2\WindowsForms_Task2\obj\Debug\WindowsForms_Task2.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\source\repos\WindowsForms_Task2\WindowsForms_Task2\obj\Debug\WindowsForms_Task2.exe
+C:\Users\Hafiz\source\repos\WindowsForms_Task2\WindowsForms_Task2\obj\Debug\WindowsForms_Task2.pdb
+C:\Users\Hafiz\source\repos\WindowsForms_Task2\WindowsForms_Task2\bin\Debug\Guna.UI2.dll
+C:\Users\Hafiz\source\repos\WindowsForms_Task2\WindowsForms_Task2\obj\Debug\WindowsForms_Task2.csproj.CopyComplete
+C:\Users\Hafiz\source\repos\WindowsForms_Task2\WindowsForms_Task2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hafiz\source\repos\WindowsForms_Task2\WindowsForms_Task2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hafiz\source\repos\WindowsForms_Task2\WindowsForms_Task2\obj\Debug\WindowsForms_Task2.Form2.resources
