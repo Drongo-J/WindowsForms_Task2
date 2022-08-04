@@ -48,7 +48,7 @@ namespace WindowsForms_Task2
 
         private void number0Btn_Click(object sender, EventArgs e)
         {
-            if (ScreenTB.Text.Contains(",")) // There can be a maximum of 11 numbers
+            if (ScreenTB.Text.Contains(".")) // There can be a maximum of 11 numbers
             {
                 ScreenTB.MaxLength = 11;
             }
@@ -197,7 +197,7 @@ namespace WindowsForms_Task2
 
         private void dotBtn_Click(object sender, EventArgs e)
         {
-            if (!ScreenTB.Text.Contains(","))
+            if (!ScreenTB.Text.Contains("."))
             {
                 ScreenTB.Text += ".";
             }
